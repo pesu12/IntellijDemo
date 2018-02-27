@@ -31,3 +31,4 @@ hs_err_pid*
 .idea/project-template.xml
 .idea/workspace.xml
 IntellijDemo.iml
+vcs.xml
